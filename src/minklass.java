@@ -4,5 +4,5 @@ public class minklass {
 
     private int annanSiffra = 7;
 
-    private int annanYtterligareSiffra = 54;
+    private int annanYtterligareSiffra = 55;
 }
